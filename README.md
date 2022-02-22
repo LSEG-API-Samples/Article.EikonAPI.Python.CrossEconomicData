@@ -4,6 +4,9 @@ This Jupyter Notebook accompanies the article titled ["Retrieve Cross Economic D
 
 **Pre-requisites:** 
 
-**Refinitiv Eikon** or **Refinitiv Workspace** with access to [Eikon Data APIs](https://developers.refinitiv.com/en/api-catalog/eikon/eikon-data-api)
+- **Refinitiv Eikon** or **Refinitiv Workspace** with access to [Eikon Data APIs](https://developers.refinitiv.com/en/api-catalog/eikon/eikon-data-api)
 
-**Required Python Packages:** eikon, pandas
+- **Required Python Packages:** eikon, pandas
+
+**Related Resource:**
+- [DN092084-Decommission of ECON chains from Eikon](https://my.refinitiv.com/content/mytr/en/datanotification/DN092084.html)
